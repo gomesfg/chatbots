@@ -7,7 +7,7 @@ João Carlos Haag\
 Marco Antonio Batista
 
 **Resumo:**
-> Faça um classificador que leia os reviews do arquivo "imdb.csv" e classifique sentenças fornecidas pelo usuário como "Positiva", "Neutra" e "Negativa". \
+> Faça um classificador que leia os reviews do arquivo "imdb.csv" e classifique sentenças fornecidas pelo usuário como "Positiva", "Neutra" e "Negativa". 
 
 **Requisitos:**
 
@@ -25,7 +25,7 @@ sia = SentimentIntensityAnalyzer()
 6.   Comparar os resultados (acurácia) do SIA com os do seu classificador.\
 Um notebook do jupyter postado em seu github (link na atividade do ava).
 
-> Fonte dataset: https://raw.githubusercontent.com/gomesfg/chatbots/ceba8bfa8c26320457ffb6559d02766e0711f802/tweet_classification/Tweets.csv
+> Fonte dataset: https://raw.githubusercontent.com/gomesfg/chatbots/main/imdb_review_classification/imdb.csv
 
 ---
 
